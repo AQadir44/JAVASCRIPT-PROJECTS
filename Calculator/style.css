@@ -1,0 +1,34 @@
+.main{
+    border: 2px solid rgb(211, 48, 48);
+    width:  500px;
+    height: 200px;
+    margin: 0 auto;
+}
+
+.result {
+    width: 98.5%;
+    background-color: grey;
+    color: #ffffff;
+    margin-top: 5px;
+    height: 40px;
+}
+
+.clearBT{
+    width: 100%;
+    margin-top: 5px;
+    color: black;
+    background-color: grey;
+    height: 40px;
+}
+
+.BT{
+    margin-top: 5px;
+    background-color: grey;
+    width: 122px;
+}
+
+.BTN{
+    margin-top: 5px;
+    width: 248px;
+    background-color: grey;
+}
