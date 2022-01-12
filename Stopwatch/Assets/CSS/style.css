@@ -1,0 +1,31 @@
+
+
+body{
+    margin: 200px 500px;
+    border: 2px solid white;
+    text-align: center;
+    width: 500px;
+    height: 400px;
+    background-color: black;
+}
+
+h3{
+    color: black;
+    display: inline-block;
+    width: 100px;
+    height: 30px;
+    background-color: white;
+}
+
+h2{
+    color: white;
+    margin-top: 100px;
+}
+
+button{
+    color: black;
+    display: inline-block;
+    width: 100px;
+    height: 30px;
+    background-color: white;
+}
