@@ -1,0 +1,33 @@
+
+
+.d-flex input{
+    margin: .9em 0em;
+}
+
+.d-flex button{
+    margin: 1em .6em;
+    padding: .3em 2.4em;
+}
+
+.container table{
+    margin: 1.5em .6em;
+}
+
+
+.btn-edit{
+    color: green;
+    cursor: pointer;
+}
+
+.btn-delete{
+    color: tomato;
+    cursor: pointer;
+}
+
+.thead th{
+    text-align: center;
+}
+
+.tbody td{
+    text-align: center;
+}

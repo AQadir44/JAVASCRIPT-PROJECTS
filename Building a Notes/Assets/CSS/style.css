@@ -1,0 +1,11 @@
+#text{
+    border: none;
+    resize: none;
+    outline: none;
+    background: transparent;
+}
+.updateText{
+    border: none;
+    resize: none;
+}
+
